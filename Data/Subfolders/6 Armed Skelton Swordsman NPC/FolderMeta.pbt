@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "b6c319ce2f8a4c81b53530fb0698f6a3"
+  OwnerAccountId: "98451989bc5a4a04ab3046bb57c3bda3"
+  OwnerName: "XRStudio"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 1704364177117341190
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 9810358653265782074
+}
+AssetIdsOriginalToNew {
+  key: 1328464424770808511
+  value: 3089595046141403561
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 8543149795050193387
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 15593175981224546784
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 16249838486437331398
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 14106999996387246159
+}
+AssetIdsOriginalToNew {
+  key: 6875009610134579617
+  value: 10761667491483180517
+}
+AssetIdsOriginalToNew {
+  key: 7502134511358725775
+  value: 4009900590022955898
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 4231060567531288809
+}
+AssetIdsOriginalToNew {
+  key: 8678518303339898065
+  value: 16599403844984292753
+}
+AssetIdsOriginalToNew {
+  key: 8849773590821764357
+  value: 16175401972509621896
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 14866848720015806668
+}
+AssetIdsOriginalToNew {
+  key: 10862837515260375752
+  value: 857417043719937587
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 4987193704061110073
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 17393178295268549445
+}
+AssetIdsOriginalToNew {
+  key: 14363941363690452509
+  value: 4592459022720322154
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 4454000875235884267
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 16756984602080855948
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 9078061325693201913
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 7760040431069986996
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 8065272114495948715
+}

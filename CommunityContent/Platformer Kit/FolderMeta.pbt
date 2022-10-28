@@ -1,0 +1,83 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "3ae7af7e268f464b807f993d962d54a3"
+  OwnerAccountId: "b27d93c40c9e46a996be41254e7326cc"
+  OwnerName: "paulpno"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 714140893656879958
+  value: 7509608750521916256
+}
+AssetIdsOriginalToNew {
+  key: 977587728113308008
+  value: 17894671901057252116
+}
+AssetIdsOriginalToNew {
+  key: 1640617413702470615
+  value: 1619140216888269853
+}
+AssetIdsOriginalToNew {
+  key: 2659849328965304897
+  value: 179020743123612368
+}
+AssetIdsOriginalToNew {
+  key: 3254532449501359649
+  value: 5480173754423523219
+}
+AssetIdsOriginalToNew {
+  key: 3395932511433396149
+  value: 231332344848957917
+}
+AssetIdsOriginalToNew {
+  key: 6903366768825507092
+  value: 7027988106976902930
+}
+AssetIdsOriginalToNew {
+  key: 8610318533327737561
+  value: 3076851718338740776
+}
+AssetIdsOriginalToNew {
+  key: 9210025199014461314
+  value: 9355619146108279678
+}
+AssetIdsOriginalToNew {
+  key: 10305598344290865662
+  value: 3384272723860529420
+}
+AssetIdsOriginalToNew {
+  key: 10633698972826550782
+  value: 15861291750696440622
+}
+AssetIdsOriginalToNew {
+  key: 11568496813972531804
+  value: 338642479841648559
+}
+AssetIdsOriginalToNew {
+  key: 12913294775122652175
+  value: 10256824505100706834
+}
+AssetIdsOriginalToNew {
+  key: 13543347108944786917
+  value: 17534202345854505044
+}
+AssetIdsOriginalToNew {
+  key: 13766848191020720505
+  value: 13479028460125582935
+}
+AssetIdsOriginalToNew {
+  key: 13931717048865808456
+  value: 6859125721348159501
+}
+AssetIdsOriginalToNew {
+  key: 14178723835071929492
+  value: 11927935740522287044
+}
+AssetIdsOriginalToNew {
+  key: 15265227869580161668
+  value: 15054023040477349782
+}
+AssetIdsOriginalToNew {
+  key: 18017473690992754113
+  value: 3883397541356642138
+}
